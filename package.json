@@ -22,6 +22,8 @@
     "bassmaster": "2.x.x",
     "bcrypt": "0.8.x",
     "boom": "4.x.x",
+    "csv": "^1.1.1",
+    "fast-levenshtein": "^2.0.6",
     "glue": "4.x.x",
     "handlebars": "4.x.x",
     "hapi": "16.x.x",

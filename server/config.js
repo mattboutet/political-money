@@ -22,7 +22,7 @@ const knexLive = {
         host      : 'localhost',
         user      : Creds.mysqlCreds.user,
         password  : Creds.mysqlCreds.password,
-        database  : 'user-boilerplate'
+        database  : 'political_money'
     },
     useNullAsDefault: true,
     debug: true
